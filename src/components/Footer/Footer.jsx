@@ -9,10 +9,7 @@ const Footer = () => {
                 <div className="col">
                     <div className="title">About</div>
                     <div className="text">
-                        Voluptatem accusantium doloremque laudantium, totam rem
-                        aperiam, eaque ipsa quae ab illo inventore veritatis et
-                        quasi architecto beatae vitae dicta sunt explicabo eaque
-                        ipsa quae ab illo.
+                    Welcome to our cutting-edge gadget e-commerce shop system, where innovation meets convenience. Explore a vast array of the latest and trendiest gadgets, meticulously curated to cater to every tech enthusiast's desires. Our user-friendly platform ensures a seamless shopping experience, with secure transactions and swift delivery, bringing the future of technology right to your fingertips. Embrace the future with our gadget emporium, where tech dreams come to life.
                     </div>
                 </div>
                 <div className="col">
@@ -20,8 +17,7 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow />
                         <div className="text">
-                            Kayaloram Rd, Punnamada, Kottankulangara, Alappuzha,
-                            Kerala, 688006
+                            Dave Reiden Panizal
                         </div>
                     </div>
                     <div className="c-item">
@@ -30,7 +26,7 @@ const Footer = () => {
                     </div>
                     <div className="c-item">
                         <FaEnvelope />
-                        <div className="text">Email: store@jsdev.com</div>
+                        <div className="text">Email: davepanizal@gmail.com</div>
                     </div>
                 </div>
                 <div className="col">
